@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="ini_Manager/Main.java|accesBDDAgathe/main.java|Thread/Thread_ExportAgathe.java|Thread/Thread_ImportEquinox.java|Dialogue/MailSender.java|Thread/Thread_SendMail.java" kind="src" path="src"/>
+	<classpathentry kind="src" path="Images"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/jaybird-full-2.1.6.jar"/>
+	<classpathentry kind="lib" path="lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="lib/smtp.jar"/>
+	<classpathentry kind="lib" path="lib/pop3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
